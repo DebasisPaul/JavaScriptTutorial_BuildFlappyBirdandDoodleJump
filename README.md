@@ -1,2 +1,2 @@
-# JavaScriptTutorial_BuildFlappyBirdandDoodleJump
-JavaScript Tutorial_ Build Flappy Bird and Doodle Jump
+# Learn JavaScript by Building 7 Games - Full Course
+Learn JavaScript by Building 7 Games - Full Course
